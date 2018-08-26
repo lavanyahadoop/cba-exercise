@@ -15,4 +15,4 @@ Running the tests:
 
 Open command prompt and run the above downloaded program by passing an argument as a path of the directory  
 
-example: C:\Users\home\PycharmProjects\untitled1> python find_superseded.py D:\Works\myfiles
+Example: D:\Works\> python find_superseded.py D:\Works\myfiles
