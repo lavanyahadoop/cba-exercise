@@ -1,3 +1,9 @@
+# Python program which takes a directory as its argument and lists the file which are redundant and could be deleted.
+# Project: CBA Exercise
+# Author: Lavanya Soundarrajan
+# Last Updated: 25/08/2018
+# Usage: python find_superseded.py  D:\Works\myfiles
+
 import os
 import platform
 import datetime
